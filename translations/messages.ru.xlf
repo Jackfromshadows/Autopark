@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ru" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="IB.qAAt" resname="reg.title">
+        <source>reg.title</source>
+        <target>Регистрация</target>
+      </trans-unit>
+      <trans-unit id="a340aSQ" resname="name">
+        <source>name</source>
+        <target>Имя</target>
+      </trans-unit>
+      <trans-unit id="RVadpX9" resname="phone">
+        <source>phone</source>
+        <target>Телефон</target>
+      </trans-unit>
+      <trans-unit id="giREF.l" resname="email">
+        <source>email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit id="XohImNo" resname="password">
+        <source>password</source>
+        <target>Пароль</target>
+      </trans-unit>
+      <trans-unit id="qmpYFJN" resname="repeatPassword">
+        <source>repeatPassword</source>
+        <target>Повторите пароль</target>
+      </trans-unit>
+      <trans-unit id="qmpYFJN2" resname="reg.submit">
+        <source>reg.submit</source>
+        <target>Регистрация</target>
+      </trans-unit>
+      <trans-unit id="qmpYFJN3" resname="user.profile">
+        <source>user.profile</source>
+        <target>Профиль пользователя</target>
+      </trans-unit>
+      <trans-unit id="qmpYFJN4" resname="shop.add">
+        <source>shop.add</source>
+        <target>Добавить автомарку</target>
+      </trans-unit>
+      <trans-unit id="qmpYFJN5" resname="shop.add.name">
+        <source>shop.add.name</source>
+        <target>Название автомарки</target>
+      </trans-unit>
+      <trans-unit id="qmpYFJN6" resname="shop.add.desc">
+        <source>shop.add.desc</source>
+        <target>Описание автомарки</target>
+      </trans-unit>
+      <trans-unit id="qmpYFJN7" resname="city">
+        <source>city</source>
+        <target>Город</target>
+      </trans-unit>
+      <trans-unit id="qmpYFJN8" resname="street">
+        <source>street</source>
+        <target>Улица</target>
+      </trans-unit>
+      <trans-unit id="qmpYFJN9" resname="house">
+        <source>house</source>
+        <target>Дом</target>
+      </trans-unit>
+      <trans-unit id="qmpYFJN10" resname="postal_code">
+        <source>postal_code</source>
+        <target>Почтовый индекс</target>
+      </trans-unit>
+      <trans-unit id="0">
+        <source>address.add</source>
+        <target>Добавить адрес</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>shop.added</source>
+        <target>Магазин добавлен</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>address.added</source>
+        <target>Адрес добавлен</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>shops</source>
+        <target>Автомарки</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>shop</source>
+        <target>Марка</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>category.added</source>
+        <target>Категория добавлена</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>category.add</source>
+        <target>Добавить категорию</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>category.name</source>
+        <target>Название категории</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>category.parent</source>
+        <target>Предыдущий уровень категории</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>product.added</source>
+        <target>Машина добавлена</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>product.add</source>
+        <target>Добавить машину</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>product.description</source>
+        <target>Описание машины</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>product.name</source>
+        <target>Название машины</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>product.detail.read</source>
+        <target>Подробнее о машине</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>img.add</source>
+        <target>Изображение</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>product.options</source>
+        <target>Опции машины</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>product.count</source>
+        <target>Количество машин в автопарке</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>price</source>
+        <target>Цена</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>discountedPrice</source>
+        <target>Цена со скидкой</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>product.characteristic</source>
+        <target>Характеристики машины</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>characteristic.name</source>
+        <target>Название характеристики</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>characteristic.value</source>
+        <target>Значение характеристики</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
